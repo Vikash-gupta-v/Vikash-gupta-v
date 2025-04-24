@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Vikash-gupta-v
+- 👋 Hi, I’m vikash gupta
 - 👀 I’m interested in devOps
 - 🌱 I’m currently working in software implementation
 - 💞️ I’m looking to collaborate for devOps Engineer
