@@ -1,7 +1,7 @@
 - 👋 Hi, I’m vikash gupta
-- 👀 I’m interested in devOps
+- 👀 I’m interested in Flutter Development
 - 🌱 I’m currently working in software implementation
-- 💞️ I’m looking to collaborate for devOps Engineer
+- 💞️ I’m looking to collaborate for Flutter Developer
 - 📫 How to reach me vikashiv9199@gmail..com
 - 😄 Pronouns: vikash gupta
 - ⚡ Fun fact: ????
